@@ -1,1 +1,1 @@
-# 10-Days-of-Problem-Solving
+# 10 Days of Problem Solving
